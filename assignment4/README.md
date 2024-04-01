@@ -1,6 +1,6 @@
 # CS540-assignment4
 
-# External Memory Sorting (12 points)
+# External Memory Sorting
 
 The objective of this assignment is to learn the implementation of sorting algorithms on external memories.
 
